@@ -1,1 +1,0 @@
-{"hooks":[{"commands":["npm run typecheck"],"name":"typecheck-on-save","trigger":"PostFileSave"}],"version":1}
