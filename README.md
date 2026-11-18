@@ -27,7 +27,7 @@ Built for **Kiroween 2026** (Devpost), category **Frankenstein**: it stitches fo
 
 ## Status (18 Nov 2026)
 
-App complete and verified locally: `npm run typecheck` clean, 47 tests pass
+App complete and verified locally: `npm run typecheck` clean, 48 tests pass
 (unit + property-based), production build succeeds, and a headless-browser
 end-to-end run confirmed the full loop (start a 1-minute focus session →
 session completes → ghost gains XP/hunger/energy → break phase → state
