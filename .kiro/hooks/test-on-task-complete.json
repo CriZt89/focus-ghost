@@ -1,0 +1,1 @@
+{"hooks":[{"commands":["npm run test"],"name":"test-after-spec-task","trigger":"PostTaskExec"}],"version":1}
